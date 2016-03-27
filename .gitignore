@@ -1,2 +1,5 @@
 /.project
-/qbit-class-0.*
+/.includepath
+/.build/*
+qbit-class*
+QBit-Class*
